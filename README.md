@@ -1,21 +1,37 @@
 # ESPhishing
-O ESPhishing é um ataque de captive portal que é executado na placa de desenvolvimento NodeMCU com o microcontrolador ESP8266. É uma ferramenta de engenharia social que gera uma rede WiFi  de um determinado nome, atraindo as pessoas para se conectarem a ela e inserirem credenciais.
+ create this for educational purposes not for illegal activity any bad issue am not
+ responsible.
+ 
+ NodeMcu esp8266 Dev board
 
-# AVISO LEGAL
-O código-fonte fornecido neste repositório público é apenas para uso educacional. Roubar credenciais é ilegal. Não sou responsável por quaisquer ações em seu nome. Este código é fornecido sem garantias e responsabilidades. Apenas seja responsável, blz?
+# Nezt project,
+ deauth
+ repeater
+ eviltwin
+ beacon
+ sniffer
+ phisher
+ 
+ powerful webpage deaign!
+ fast system feutures and More
+ 
+ changes captive phishing portal
+ 
+ 
 
-# CRÉDITOS
-A maior parte do código é uma alteração do projeto:
+# CREDIT TO
+A maior part of codes on a Project:
 * [ESPBug_PIO] - https://github.com/guanicoe/ESPBug_PIO
 
-Que é fortemente inspirada por diferentes repositórios do github:
+
+ Repositories on github and info's .
 
 * [ESPBug] - https://github.com/willmendil/ESPBug
 * [ESPortalV2] - https://github.com/exploitagency/ESPortalV2
 * [github-ESPortal] - https://github.com/exploitagency/github-ESPortal
 * [esp8266_deauther] - https://github.com/spacehuhn/esp8266_deauther
 
-# Demostração de Como Fazer
+# Demostration On youtube by Penegui
 
 [![Por Que Não Usar Redes Wi-Fi Publicas??? | ESPBug | ESPhishing](https://i.imgur.com/1QKQ6CX.png)](https://youtu.be/z11nkEvwW4s "Por Que Não Usar Redes Wi-Fi Publicas??? | ESPBug | ESPhishing")
 
