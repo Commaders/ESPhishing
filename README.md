@@ -42,6 +42,6 @@ A maior part of codes on a Project:
 [![0.2V of the Evilbug | ESPBug | ESPhishing](https://i.imgur.com/1QKQ6CX.png)](https://youtu.be/z11nkEvwW4s "Por Que Não Usar Redes Wi-Fi Publicas??? | ESPBug | ESPhishing")
 
 Aqui estão algumas capturas de tela do meu telefone mostrando a interface da web. As primeiras imagens são o captive portal e as páginas de phishing vistas pela vítima.
-<p align="center"><img  width="500" src="https://i.imgur.com/yk82H4Z.png" title="source: imgur.com" /></p>
-<p align="center"><img  width="500" src="https://i.imgur.com/To2eMjn.png" title="source: imgur.com" /></p>
-<p align="center"><img  width="500" src="https://i.imgur.com/yP4Ke8a.png" title="source: imgur.com" /></p>
+<p align="center"><img  width="700" src="https://i.imgur.com/yk82H4Z.png" title="source: imgur.com" /></p>
+<p align="center"><img  width="700" src="https://i.imgur.com/To2eMjn.png" title="source: imgur.com" /></p>
+<p align="center"><img  width="700" src="https://i.imgur.com/yP4Ke8a.png" title="source: imgur.com" /></p>
