@@ -2,24 +2,27 @@
  create this for educational purposes not for illegal activity any bad issue am not
  responsible.
  
- NodeMcu esp8266 Dev board
+ * NodeMcu esp8266 Dev board
 
-# Nezt project,
- deauth
- repeater
- eviltwin
- beacon
- sniffer
- phisher
+# Next project Feutures,
+ ## deauth
+ ## repeater
+ ## eviltwin
+ ## beacon
+ ## sniffer
+ ## phisher
  
- powerful webpage deaign!
+ powerful webpage design!
  fast system feutures and More
  
- changes captive phishing portal
+ ## changes
+ ## captive 
+ ## phishing 
+ ## portal
  
  
 
-# CREDIT TO
+# CREDITS TO
 A maior part of codes on a Project:
 * [ESPBug_PIO] - https://github.com/guanicoe/ESPBug_PIO
 
